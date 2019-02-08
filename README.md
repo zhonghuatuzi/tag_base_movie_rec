@@ -1,1 +1,4 @@
-# tag_base_movie_rec
+＃tag_base_movie_rec
+这是基于标签重叠社团的影视推荐算法
+基于movielens1M数据集
+运行环境是python3.7.0
